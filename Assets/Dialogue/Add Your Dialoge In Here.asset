@@ -1,0 +1,37 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 514200a04eba44837bce327baf546e1f, type: 3}
+  m_Name: Add Your Dialoge In Here
+  m_EditorClassIdentifier: 
+  dialogue:
+  - name: Obi_wan
+    text: 'StarWars !! now thats a movie '
+  - name: Padawan
+    text: if life didnt have it, could we truly call it life?
+  - name: YODA
+    text: HMMMM....NICE THIS IS
+  - name: YODA
+    text: CAT CAT CAT CAT CAT. I SEE A CAT
+  - name: CAT
+    text: MOEW MOEW MOEW MOEW MEOW
+  - name: DAVID
+    text: 'NOT SURE What to say anymore '
+  - name: DAVID TO DAVID
+    text: 'you could just shut up '
+  - name: the hurt
+    text: you programmers and your weird language
+  - name: 0101010101010101010
+    text: 10010011010110110
+  - name: 0101010101010101010
+    text: 10010011010110110
+  - name: 0101010101010101010
+    text: 10010011010110110
