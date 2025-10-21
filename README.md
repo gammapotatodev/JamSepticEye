@@ -11,20 +11,20 @@ Yet something keeps you tethered: the defibrillator in your chest. Each pulse jo
 Navigate the infernal halls, solve twisted puzzles, and face the echoes of your own sins. To escape damnation, you’ll need to play by Hell’s rules or break them entirely.
 
 Features
-Two endings: salvation or eternal damnation.
-Unique soul mechanic: leave your body and explore as a spirit.
-Atmospheric puzzles: twisted trials standing between you and freedom.
-Voiced encounter: two dolls that speak… but only one can be trusted.
-Timed minigame: a tense pulse challenge to save your soul.
-Narrated story: guided by a haunting voice from the depths.
-Three cutscenes: glimpses of your descent and possible escape.
-Hidden lore: uncover the truth behind your death.
-Immersive soundtrack & sound design: every heartbeat and whisper crafted to haunt you.
+Two endings: salvation or eternal damnation. <br> 
+Unique soul mechanic: leave your body and explore as a spirit. <br> 
+Atmospheric puzzles: twisted trials standing between you and freedom. <br> 
+Voiced encounter: two dolls that speak… but only one can be trusted. <br> 
+Timed minigame: a tense pulse challenge to save your soul. <br> 
+Narrated story: guided by a haunting voice from the depths. <br> 
+Three cutscenes: glimpses of your descent and possible escape. <br> 
+Hidden lore: uncover the truth behind your death. <br> 
+Immersive soundtrack & sound design: every heartbeat and whisper crafted to haunt you. <br> 
 
 
 WASD - movement <br> 
 SPACE - change your form  (in another form, you are able to pass through certain objects) <br> 
-Left & Right arrows - change camera direction <br>  
+Left & Right arrows - change camera direction
 Down arrow - change top-down view to third-person view <br> 
 E - to interact <br> 
 F - to skip cutscenes <br> 
