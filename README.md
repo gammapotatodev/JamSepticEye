@@ -1,7 +1,7 @@
 # JamSepticEye
-![JamEyeS1](https://github.com/user-attachments/assets/eb1404fe-e954-455a-aa6a-e54ec384c7b9)<br>
-![JamEyeS2](https://github.com/user-attachments/assets/acb34ad5-a733-4392-8bb2-ecbb15ce015c)<br>
-<![JamEyeS3](https://github.com/user-attachments/assets/f9c9766b-570e-4d6f-8d5e-461df2f8633a)<br>
+![JamEyeS1](https://github.com/user-attachments/assets/eb1404fe-e954-455a-aa6a-e54ec384c7b9) <br>
+![JamEyeS2](https://github.com/user-attachments/assets/acb34ad5-a733-4392-8bb2-ecbb15ce015c) <br>
+<![JamEyeS3](https://github.com/user-attachments/assets/f9c9766b-570e-4d6f-8d5e-461df2f8633a) <br>
 
 Exit Wound is a short, atmospheric 3D puzzle adventure set in a world where death isn’t the end, but the beginning of your final trial.
 
@@ -22,11 +22,10 @@ Hidden lore: uncover the truth behind your death.
 Immersive soundtrack & sound design: every heartbeat and whisper crafted to haunt you.
 
 
-WASD - movement 
-SPACE - change your form  (in another form, you are able to pass through certain objects)
-Left & Right arrows - change camera direction 
-Down arrow - change top-down view to third-person view
-E - to interact 
-F - to skip cutscenes
-
+WASD - movement <br> 
+SPACE - change your form  (in another form, you are able to pass through certain objects) <br> 
+Left & Right arrows - change camera direction <br>  
+Down arrow - change top-down view to third-person view <br> 
+E - to interact <br> 
+F - to skip cutscenes <br> 
 ESC - back to menu
