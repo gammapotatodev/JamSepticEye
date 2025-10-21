@@ -1,7 +1,7 @@
 # JamSepticEye
 ![JamEyeS1](https://github.com/user-attachments/assets/eb1404fe-e954-455a-aa6a-e54ec384c7b9) <br>
 ![JamEyeS2](https://github.com/user-attachments/assets/acb34ad5-a733-4392-8bb2-ecbb15ce015c) <br>
-<![JamEyeS3](https://github.com/user-attachments/assets/f9c9766b-570e-4d6f-8d5e-461df2f8633a) <br>
+![JamEyeS3](https://github.com/user-attachments/assets/f9c9766b-570e-4d6f-8d5e-461df2f8633a) <br>
 
 Exit Wound is a short, atmospheric 3D puzzle adventure set in a world where death isn’t the end, but the beginning of your final trial.
 
